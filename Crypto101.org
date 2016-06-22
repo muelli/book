@@ -1933,7 +1933,7 @@ cipher.
 As always, attacks never get worse. They only get better.
 
 Adi Shamir and Itsik Mantin showed that the second byte produced by
-the cipher is /twice/ as likely to be zero as it should be. Other
+the cipher is /twice/ as likely to be zero than it should be. Other
 researchers showed similar biases in the first few bytes of the
 keystream. This sparked further research by Mantin, Shamir and
 Fluhrer, showing large biases in the first bytes of the keystream.
